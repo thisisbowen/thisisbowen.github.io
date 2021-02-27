@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Bowen Cai"
+title: "Hi! This is Bowen Cai"
 headless: true
 ---
 
-I'm a Data Scientist/V-Logger/Gamer on Earth
+A Data Scientist/V-Logger/Gamer on Earth
