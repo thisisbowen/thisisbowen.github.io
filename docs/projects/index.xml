@@ -17,19 +17,19 @@
     
     <item>
       <title>George Wyth Park</title>
-      <link>http://example.com/projects/george-wyth-park/</link>
+      <link>http://example.com/projects/george_wyth_park/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/projects/george-wyth-park/</guid>
+      <guid>http://example.com/projects/george_wyth_park/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Washington DC</title>
-      <link>http://example.com/projects/washington-dc/</link>
+      <link>http://example.com/projects/washington_dc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/projects/washington-dc/</guid>
+      <guid>http://example.com/projects/washington_dc/</guid>
       <description></description>
     </item>
     
