@@ -1,4 +1,4 @@
-
+publishDir                       = "public"
 baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
