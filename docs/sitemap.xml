@@ -19,15 +19,15 @@
   </url>
   
   <url>
-    <loc>https://thisisbowen.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://thisisbowen.github.io/series/</loc>
   </url>
   
   <url>
     <loc>https://thisisbowen.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://thisisbowen.github.io/</loc>
   </url>
   
 </urlset>
