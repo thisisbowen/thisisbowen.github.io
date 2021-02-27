@@ -3,7 +3,7 @@ baseURL                          = "https://thisisbowen.github.io/"   # Your dom
 theme                            = "hugo-theme-introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
-# googleAnalytics                 = "G-1EGT3V3GGV"         # https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics                 = "UA-190739368-1"       # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
