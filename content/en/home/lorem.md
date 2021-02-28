@@ -1,6 +1,6 @@
 ---
 title: "Competition"
-image: "data.png"
+image: "data.jpg"
 weight: 11
 ---
 
