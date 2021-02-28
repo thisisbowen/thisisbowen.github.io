@@ -1,6 +1,6 @@
 ---
-title: "Hi! This is Bowen Cai"
+title: "Hi, I'm Introduction"
 headless: true
 ---
 
-A Data Scientist/V-Logger/Gamer on Earth
+I'm a theme for Hugo

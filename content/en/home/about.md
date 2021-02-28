@@ -1,19 +1,17 @@
 ---
 title: "About"
 image: "profile.jpg"
-weight: 10
+weight: 8
 ---
 
-### Facts
+This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
 
-* Human on **Earth** for over 20 years.
-* Alumni from University of Connecticut. **Go Huskies!**.
-* **Data Scientist** at one S&P 500 company.
+### Features
 
-
-### Interests
-
-* **Coding** every day, **study** every day.
-* **Kaggle** competition.
-* Videography & photography.
-* Hardcore & casual **gaming**.
+* Responsive display on any size screen
+* Light and Dark themes right out of the box
+* Multilingual - supports side-by-side content in multiple languages
+* Any number of custom index page sections from Markdown files
+* _Projects_ section with any number of projects: highly configurable as a photo gallery, modals, or external links
+* _Blog_ section with optional _Latest Post_, on the main page or as a separate section
+* Styled Markdown throughout with support for Hugo's syntax highlighting
