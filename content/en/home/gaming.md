@@ -8,7 +8,7 @@ I always believe **<font size = '5'> Video Games are eighth art.</font>**
 
 * I am filled with **determination** thanks to **Undertale**. ❤️‍
 
-* I know what is **dedication** thanks to **Call of Duty**. 🧡
+* I know what **dedication** is thanks to **Call of Duty**. 🧡
 
 * I feel **connected** thanks to **Death Stranding**. 💛
 
