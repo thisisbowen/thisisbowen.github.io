@@ -1,4 +1,4 @@
-
+publishDir                       = "docs"
 baseURL                          = "https://thisisbowen.github.io/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
