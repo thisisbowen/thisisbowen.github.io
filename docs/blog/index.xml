@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on This is Bowen</title>
+    <title>Blog on Introduction</title>
     <link>https://thisisbowen.github.io/blog/</link>
-    <description>Recent content in Blog on This is Bowen</description>
+    <description>Recent content in Blog on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="https://thisisbowen.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -14,8 +14,8 @@
       
       <guid>https://thisisbowen.github.io/blog/configuration/</guid>
       <description>Here are some helpful tips for setting up this theme.
-ConfigurationMost of what you&amp;rsquo;ll want to configure is demonstrated in the exampleSite config.toml. This is Hugo&amp;rsquo;s configuration file. You can copy the config.toml in the exampleSite/ to your site root get started.
-Here are all the options included in the configuration file for this example site!publishDir = &amp;#34;docs&amp;#34; baseURL = &amp;#34;https://thisisbowen.github.io/&amp;#34; # Your domain name. Must end with &amp;#34;/&amp;#34; theme = &amp;#34;introduction&amp;#34; DefaultContentLanguage = &amp;#34;en&amp;#34; # Default language for multilingual sites # disqusshortname = &amp;#34;&amp;#34; # https://gohugo.</description>
+Configuration Most of what you&amp;rsquo;ll want to configure is demonstrated in the exampleSite config.toml. This is Hugo&amp;rsquo;s configuration file. You can copy the config.toml in the exampleSite/ to your site root get started.
+Here are all the options included in the configuration file for this example site! publishDir = &amp;#34;docs&amp;#34; baseURL = &amp;#34;https://thisisbowen.github.io/&amp;#34; # Your domain name. Must end with &amp;#34;/&amp;#34; theme = &amp;#34;introduction&amp;#34; DefaultContentLanguage = &amp;#34;en&amp;#34; # Default language for multilingual sites # disqusshortname = &amp;#34;&amp;#34; # https://gohugo.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Here are all the options included in the configuration file for this example sit
       
       <guid>https://thisisbowen.github.io/blog/long-form-post/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum NisiQuis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
     </item>
     
     <item>
