@@ -1,5 +1,5 @@
 ---
-title: "Photography"
+title: "Washington DC"
 weight: 1
 ---
 
