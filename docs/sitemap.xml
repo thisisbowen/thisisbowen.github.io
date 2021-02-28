@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://thisisbowen.github.io/projects/manhattan/</loc>
-  </url>
+  <sitemap>
+    <loc>https://thisisbowen.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://thisisbowen.github.io/projects/george_wyth_park/</loc>
-  </url>
+  <sitemap>
+    <loc>https://thisisbowen.github.io/es/sitemap.xml</loc>
+    
+      <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://thisisbowen.github.io/projects/washington_dc/</loc>
-  </url>
+  <sitemap>
+    <loc>https://thisisbowen.github.io/de/sitemap.xml</loc>
+    
+      <lastmod>2017-11-13T11:58:39-05:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://thisisbowen.github.io/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thisisbowen.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thisisbowen.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thisisbowen.github.io/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
