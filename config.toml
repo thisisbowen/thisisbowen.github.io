@@ -97,7 +97,7 @@ DefaultContentLanguage           = "en"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "This is Bowen"
+        title            = "Introduction"
         [languages.en.params]
-            description  = "Bowen Homepage"   # Max 160 characters show in search results
+            description  = "Website Description"   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
