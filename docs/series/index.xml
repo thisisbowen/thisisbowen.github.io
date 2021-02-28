@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on This is Bowen</title>
-    <link>https://www.thisisbowen.com/series/</link>
+    <link>https://thisisbowen.github.io/series/</link>
     <description>Recent content in Series on This is Bowen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.thisisbowen.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://thisisbowen.github.io/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
