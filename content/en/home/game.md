@@ -4,7 +4,7 @@ image: "undertale.jpg"
 weight: 32
 ---
 
-I always believe in **<font size = '5'> Video Games are eighth art.</font>**
+I always believe **<font size = '5'> Video Games are eighth art.</font>**
 
 * I am filled with **determination** thanks to **Undertale**. ❤️‍
 
