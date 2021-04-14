@@ -2,8 +2,8 @@ publishDir                       = "docs"
 baseURL                          = "https://www.thisisbowen.com/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
-# disqusshortname                = ""                     # https://gohugo.io/content-management/comments
-googleAnalytics                  = "UA-190739368-1"                     # https://gohugo.io/templates/internal/#google-analytics
+# disqusshortname                = ""                      # https://gohugo.io/content-management/comments
+googleAnalytics                  = "UA-190739368-1"        # https://gohugo.io/templates/internal/#google-analytics
 
 [params]
     themeStyle                   = "auto"                  # Choose "light" or "dark" or "auto"
@@ -12,7 +12,7 @@ googleAnalytics                  = "UA-190739368-1"                     # https:
     fadeIn                       = true                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "thisisbowen@email.com"   # E-mail address for contact section
+    email                        = "thisisbowencai@gmail.com"   # E-mail address for contact section
     # customCSS                  = ["foo.css"]             # Include custom css files placed under assets/
     # customJS                   = ["foo.js"]              # Include custom JavaScript files placed under assets/
     # plausible                  = true                    # Use Plausible analytics (requires an account at Plausible.io)
@@ -54,7 +54,7 @@ googleAnalytics                  = "UA-190739368-1"                     # https:
         icon_pack = "fab"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
     [[params.social]]
-        url = "mailto:thisisbowencai@email.com"  # For a direct email link, use "mailto:test@example.org".
+        url = "mailto:thisisbowencai@gmail.com"  # For a direct email link, use "mailto:test@example.org".
         icon = "envelope" # icon name without the 'fa-'
         icon_pack = "fas"
 
