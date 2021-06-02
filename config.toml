@@ -100,5 +100,5 @@ googleAnalytics                  = "UA-190739368-1"        # https://gohugo.io/t
         weight           = 0
         title            = "This is Bowen"
         [languages.en.params]
-            description  = "Bowen's Homepage"   # Max 160 characters show in search results
+            description  = "Bowen's personal website"   # Max 160 characters show in search results
             footerText   = "Made with [💜](https://gohugo.io/)"        # Text to override default footer text (markdown allowed)
