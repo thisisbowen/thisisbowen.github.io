@@ -13,7 +13,7 @@ weight: 10
 
 ### Interests
 
-* **Coding** every day, **study** every day.
+* **Coding** every day, **learning** every day.
 * **Kaggle** competition.
 * Videography & photography.
 * Hardcore & casual **gaming**.
