@@ -45,6 +45,11 @@ googleAnalytics                  = "UA-190739368-1"        # https://gohugo.io/t
         icon_pack = "fab"
         html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
     [[params.social]]
+        url   = "https://github.com/thisisbowen"
+        icon  = "github" # icon name without the 'fa-'
+        icon_pack = "fab"
+        html_attributes = "rel=\"me\"" # Add rel attribute for Mastodon profile link verification
+    [[params.social]]
         url   = "https://www.linkedin.com/in/keepbowen/"
         icon  = "linkedin" # icon name without the 'fa-'
         icon_pack = "fab"
