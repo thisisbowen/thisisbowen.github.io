@@ -11,7 +11,7 @@ weight: 11
 
 ##### [**NFL Big Data Bowl**](https://www.kaggle.com/c/nfl-big-data-bowl-2020) - Jan. 2020
 * **47th place** of 2038 (Top 3%)
-* Creative feature engineering + LSTM & LightGBM ensemble.
+* Creative feature engineering + ANN & LightGBM ensemble.
 
 ##### [**2018 Travelers Statistical Modeling Competition**](https://www.kaggle.com/c/2018-Travelers-Statistical-Modeling-Competition) - Oct. 2018
 * **3rd place** of 72 (Top 5%)
