@@ -7,7 +7,7 @@ weight: 11
 
 ##### [**Rock, Paper, Scissors**](https://www.kaggle.com/c/rock-paper-scissors) - Feb. 2021
 * **1st place** of 1663 (Top 1%)
-* Reinforcement learning + Level 2 Framework strategy.
+* Reinforcement learning + Level-k theory framework.
 
 ##### [**NFL Big Data Bowl**](https://www.kaggle.com/c/nfl-big-data-bowl-2020) - Jan. 2020
 * **47th place** of 2038 (Top 3%)
