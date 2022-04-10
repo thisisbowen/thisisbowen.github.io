@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.thisisbowen.com/projects/george_wyth_park/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/projects/washington_dc/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/projects/manhattan/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/series/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.thisisbowen.com/</loc>
   </url>
-  
 </urlset>
